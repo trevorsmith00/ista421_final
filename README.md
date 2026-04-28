@@ -1,4 +1,4 @@
-# Ista421_final
+# Ista421 Final Project
 Final Project For Ista 421
 
 This project analyzes the NYC Taxi Trip Record Data to explore patterns in taxi fares and build machine learning models to better understand pricing behavior.
