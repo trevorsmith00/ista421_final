@@ -12,3 +12,10 @@ Objectives
 - Detect potential bias/patterns in pricing
 - Build + Evaluate machine learning models
 - Communicate insights through visualizations
+
+
+DataSet
+
+Heres the link to the full dataset (January 2026 Yellow Taxi Trip Records)
+
+- https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
